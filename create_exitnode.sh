@@ -1,7 +1,6 @@
 #!/bin/sh
 
 IP=$1
-GATEWAY_IP=$2
 
 MESH_IP=100.64.0.42
 MESH_PREFIX=32
